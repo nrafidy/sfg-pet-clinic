@@ -1,6 +1,6 @@
 package dev.mirakila.petclinic.model;
 
-public class Person {
+public class Person extends BaseModel {
     private String firstName;
     private String lastName;
 
